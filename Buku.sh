@@ -4,9 +4,14 @@
 
 read -p 'Search the bookmarks database for?': query;
 
-exec buku -s $query
+buku $query
 
-echo 'As you wish, Master.'
+echo 'No matches could be found Master.'
 
 
 # I had to set w3m as my default browser in order for this to work.
+
+bash
+
+
+
