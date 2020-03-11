@@ -4,7 +4,7 @@
 
 read -p 'Search the bookmarks database for?': query;
 
-exec buku browser w3m $query ;
+exec buku -s $query
 
 echo 'As you wish, Master.'
 
