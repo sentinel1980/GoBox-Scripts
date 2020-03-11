@@ -1,1 +1,2 @@
 I have uploaded some tiny but useful scripts that I wrote for bash using an ubuntu laptop. These are mainly for educational purposes and may not work for you. I used scripts like this for the same purpose as others use macros. You are welcome to use the code as you wish. Any improvements sent upstream would be welcome.
+If you got any questions or suggestions please email me at designbyshelton@gmail.com
